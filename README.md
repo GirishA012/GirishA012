@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Girish Agarwal</h1>
-<h3 align="center">A passionate AI/ML Enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm Girish Agarwal.</h1>
+<h3 align="center">A passionate AI/ML Enthusiast from India.</h3>
 
-- 🔭 I’m currently working on **Finetuning and RAG Pipelines**
+- 🔭 I’m currently working on **Finetuning and RAG Pipelines.**
 
-- 💬 Ask me about **Generative AI**
+- 💬 Ask me about **Generative AI.**
 
-- 📫 How to reach me **agirish048@gmail.com**
+- 📫 How to reach me: **agirish048@gmail.com**
 
-- ⚡ Fun fact **I play football and cricket, watch anime and also swim in my free time**
+- ⚡ Fun fact **I play football and cricket, watch anime and also swim in my free time.**
 
 
 <h3 align="left">Languages and Tools:</h3>
